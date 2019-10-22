@@ -1,4 +1,4 @@
-# itcast_manage_34
+# manage
 
 ## Project setup
 ```
